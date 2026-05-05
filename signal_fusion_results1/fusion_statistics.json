@@ -1,0 +1,19 @@
+{
+  "fusion_method": "direct_replace",
+  "denormalization_source": "user_specified_means_stds",
+  "noise_ratio": 0.028053535353535355,
+  "signal_ranges": {
+    "original": [
+      -410646.980791,
+      407896.999013
+    ],
+    "denoised_denorm": [
+      -708565.061150095,
+      745548.8078219705
+    ],
+    "fused": [
+      -708565.061150095,
+      653057.8514066276
+    ]
+  }
+}
