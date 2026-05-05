@@ -1,0 +1,9 @@
+{
+  "model_noise_ratio": 0.07142323232323232,
+  "timefreq_noise_ratio": 0.05986868686868687,
+  "fused_noise_ratio": 0.015991919191919193,
+  "model_noise_points": 70709,
+  "timefreq_noise_points": 59270,
+  "fused_noise_points": 15832,
+  "reduction_ratio": 0.776096395084077
+}
